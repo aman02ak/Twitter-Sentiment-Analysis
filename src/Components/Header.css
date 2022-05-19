@@ -1,0 +1,12 @@
+.headerParent {
+  margin: 0;
+  background-color: cadetblue;
+  height: 55px;
+}
+
+.header {
+  margin: 0;
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}

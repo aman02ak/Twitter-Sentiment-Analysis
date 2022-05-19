@@ -1,0 +1,18 @@
+.footerComponent {
+  display: flex;
+  justify-content: space-around;
+}
+.footerSection {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-around; */
+}
+
+.footerHead {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.footerDetail {
+  font-size: 15px;
+}
