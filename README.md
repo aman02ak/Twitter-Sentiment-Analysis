@@ -6,4 +6,4 @@ YouTube Video Link - https://www.youtube.com/watch?v=QeIhJeYoLIE
 2. Do the needful installation of all packages / libraries as guided
 3. Run server file first, as "python server.py"
 4. Run react file, as "npm start"
-5. Test application on browser
+5. Test application on browser.
